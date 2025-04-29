@@ -2,7 +2,7 @@
 
 ## Tech Stack
 - Backend: Node.js + Express.js
-- Database: PostgreSQL (via `pg` package, no ORM)
+- Database: PostgreSQL
 - Frontend: React + Vite + TypeScript
 
 ## Structure
